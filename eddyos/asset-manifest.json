@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/eddyos/static/css/main.1e42b596.chunk.css",
+    "main.js": "/eddyos/static/js/main.dcd5d314.chunk.js",
+    "main.js.map": "/eddyos/static/js/main.dcd5d314.chunk.js.map",
+    "runtime~main.js": "/eddyos/static/js/runtime~main.4c900826.js",
+    "runtime~main.js.map": "/eddyos/static/js/runtime~main.4c900826.js.map",
+    "static/css/2.1ad9c816.chunk.css": "/eddyos/static/css/2.1ad9c816.chunk.css",
+    "static/js/2.7fcb172c.chunk.js": "/eddyos/static/js/2.7fcb172c.chunk.js",
+    "static/js/2.7fcb172c.chunk.js.map": "/eddyos/static/js/2.7fcb172c.chunk.js.map",
+    "static/js/3.26895238.chunk.js": "/eddyos/static/js/3.26895238.chunk.js",
+    "static/js/3.26895238.chunk.js.map": "/eddyos/static/js/3.26895238.chunk.js.map",
+    "index.html": "/eddyos/index.html",
+    "precache-manifest.d2900eff3d4891ef3663e29463364467.js": "/eddyos/precache-manifest.d2900eff3d4891ef3663e29463364467.js",
+    "service-worker.js": "/eddyos/service-worker.js",
+    "static/css/2.1ad9c816.chunk.css.map": "/eddyos/static/css/2.1ad9c816.chunk.css.map",
+    "static/css/main.1e42b596.chunk.css.map": "/eddyos/static/css/main.1e42b596.chunk.css.map"
+  }
+}
