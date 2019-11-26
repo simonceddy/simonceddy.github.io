@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/songmath/static/css/main.8a7088c2.chunk.css",
-    "main.js": "/songmath/static/js/main.475e9c7b.chunk.js",
-    "main.js.map": "/songmath/static/js/main.475e9c7b.chunk.js.map",
+    "main.js": "/songmath/static/js/main.6d060144.chunk.js",
+    "main.js.map": "/songmath/static/js/main.6d060144.chunk.js.map",
     "runtime-main.js": "/songmath/static/js/runtime-main.0264e14c.js",
     "runtime-main.js.map": "/songmath/static/js/runtime-main.0264e14c.js.map",
     "static/js/2.70236417.chunk.js": "/songmath/static/js/2.70236417.chunk.js",
     "static/js/2.70236417.chunk.js.map": "/songmath/static/js/2.70236417.chunk.js.map",
     "index.html": "/songmath/index.html",
-    "precache-manifest.97767b6f93fbb905d0e5a05e2a9506ba.js": "/songmath/precache-manifest.97767b6f93fbb905d0e5a05e2a9506ba.js",
+    "precache-manifest.ca3f510503709fe9caa773117418ac8f.js": "/songmath/precache-manifest.ca3f510503709fe9caa773117418ac8f.js",
     "service-worker.js": "/songmath/service-worker.js",
     "static/css/main.8a7088c2.chunk.css.map": "/songmath/static/css/main.8a7088c2.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.0264e14c.js",
     "static/js/2.70236417.chunk.js",
     "static/css/main.8a7088c2.chunk.css",
-    "static/js/main.475e9c7b.chunk.js"
+    "static/js/main.6d060144.chunk.js"
   ]
 }
