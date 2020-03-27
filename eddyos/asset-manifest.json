@@ -1,19 +1,25 @@
 {
   "files": {
-    "main.css": "/eddyos/static/css/main.1e42b596.chunk.css",
-    "main.js": "/eddyos/static/js/main.dcd5d314.chunk.js",
-    "main.js.map": "/eddyos/static/js/main.dcd5d314.chunk.js.map",
-    "runtime~main.js": "/eddyos/static/js/runtime~main.4c900826.js",
-    "runtime~main.js.map": "/eddyos/static/js/runtime~main.4c900826.js.map",
-    "static/css/2.1ad9c816.chunk.css": "/eddyos/static/css/2.1ad9c816.chunk.css",
-    "static/js/2.7fcb172c.chunk.js": "/eddyos/static/js/2.7fcb172c.chunk.js",
-    "static/js/2.7fcb172c.chunk.js.map": "/eddyos/static/js/2.7fcb172c.chunk.js.map",
-    "static/js/3.26895238.chunk.js": "/eddyos/static/js/3.26895238.chunk.js",
-    "static/js/3.26895238.chunk.js.map": "/eddyos/static/js/3.26895238.chunk.js.map",
+    "main.css": "/eddyos/static/css/main.9e21c42e.chunk.css",
+    "main.js": "/eddyos/static/js/main.6640337b.chunk.js",
+    "main.js.map": "/eddyos/static/js/main.6640337b.chunk.js.map",
+    "runtime-main.js": "/eddyos/static/js/runtime-main.0fa4833f.js",
+    "runtime-main.js.map": "/eddyos/static/js/runtime-main.0fa4833f.js.map",
+    "static/css/2.c86740ff.chunk.css": "/eddyos/static/css/2.c86740ff.chunk.css",
+    "static/js/2.e175483b.chunk.js": "/eddyos/static/js/2.e175483b.chunk.js",
+    "static/js/2.e175483b.chunk.js.map": "/eddyos/static/js/2.e175483b.chunk.js.map",
     "index.html": "/eddyos/index.html",
-    "precache-manifest.d2900eff3d4891ef3663e29463364467.js": "/eddyos/precache-manifest.d2900eff3d4891ef3663e29463364467.js",
+    "precache-manifest.ed0e35a945d3855f1f07334b8b62ecea.js": "/eddyos/precache-manifest.ed0e35a945d3855f1f07334b8b62ecea.js",
     "service-worker.js": "/eddyos/service-worker.js",
-    "static/css/2.1ad9c816.chunk.css.map": "/eddyos/static/css/2.1ad9c816.chunk.css.map",
-    "static/css/main.1e42b596.chunk.css.map": "/eddyos/static/css/main.1e42b596.chunk.css.map"
-  }
+    "static/css/2.c86740ff.chunk.css.map": "/eddyos/static/css/2.c86740ff.chunk.css.map",
+    "static/css/main.9e21c42e.chunk.css.map": "/eddyos/static/css/main.9e21c42e.chunk.css.map",
+    "static/js/2.e175483b.chunk.js.LICENSE.txt": "/eddyos/static/js/2.e175483b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fa4833f.js",
+    "static/css/2.c86740ff.chunk.css",
+    "static/js/2.e175483b.chunk.js",
+    "static/css/main.9e21c42e.chunk.css",
+    "static/js/main.6640337b.chunk.js"
+  ]
 }
