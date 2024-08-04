@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sampler/static/css/main.196e1c4b.css",
+    "main.js": "/sampler/static/js/main.48c741b1.js",
+    "index.html": "/sampler/index.html",
+    "main.196e1c4b.css.map": "/sampler/static/css/main.196e1c4b.css.map",
+    "main.48c741b1.js.map": "/sampler/static/js/main.48c741b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.196e1c4b.css",
+    "static/js/main.48c741b1.js"
+  ]
+}
